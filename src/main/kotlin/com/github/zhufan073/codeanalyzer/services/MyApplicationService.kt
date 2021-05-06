@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhufan073.codeanalyzer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhufan073.codeanalyzer.MyBundle
 
 class MyApplicationService {
 

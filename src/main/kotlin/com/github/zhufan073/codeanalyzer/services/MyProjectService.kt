@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhufan073.codeanalyzer.services
 
+import com.github.zhufan073.codeanalyzer.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
